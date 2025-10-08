@@ -57,7 +57,7 @@
   "config/connection-table-columns": "[\"close\",\"sourceIP\",\"host\",\"chains\",\"dlSpeed\",\"ulSpeed\",\"type\",\"remoteAddress\",\"rule\",\"dl\",\"ul\",\"connectTime\"]",
   "config/auto-disconnect-idle-udp-time": "300",
   "config/table-column-pinning": "{\"left\":[],\"right\":[]}",
-  "setup/api-list": "[{\"protocol\":\"http\",\"host\":\"192.168.3.1\",\"port\":\"9090\",\"secondaryPath\":\"\",\"password\":\"123456\",\"label\":\"内网\",\"disableUpgradeCore\":false,\"uuid\":\"1ea5b0b8-c2db-467a-b22a-afb54c2775b6\"},{\"protocol\":\"http\",\"secondaryPath\":\"\",\"host\":\"192.168.1.2\",\"port\":\"9090\",\"password\":\"KLxsx.0249!\",\"label\":\"\",\"disableUpgradeCore\":false,\"uuid\":\"6ff26e5c-b632-4c14-aae8-90f95c72e026\"}]",
+  "setup/api-list": "[{\"protocol\":\"http\",\"secondaryPath\":\"\",\"host\":\"192.168.1.2\",\"port\":\"9090\",\"password\":\"KLxsx.0249!\",\"label\":\"\",\"disableUpgradeCore\":false,\"uuid\":\"6ff26e5c-b632-4c14-aae8-90f95c72e026\"}]",
   "config/proxies-count-mode": "aliveTotal",
   "config/proxy-card-size": "large",
   "config/log-search-history": "[\"牛逼\",\"所有\",\"香港\",\"cnn.com\",\"cnn\"]",
